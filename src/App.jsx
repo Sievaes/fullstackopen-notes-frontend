@@ -129,7 +129,7 @@ const App = () => {
         </div>
       )}
 
-      <h2>Notes</h2>
+      <h2>Note</h2>
 
       <div>
         <button onClick={() => setShowAll(!showAll)}>
